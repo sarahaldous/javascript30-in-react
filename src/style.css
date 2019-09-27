@@ -1,3 +1,15 @@
 body {
     background-color: pink;
 }
+.containerImage {
+    size: cover;
+}
+.blue {
+    background-color: blue;
+}
+.purple {
+    background-color: purple
+}
+.crimson {
+    background-color: crimson
+}
